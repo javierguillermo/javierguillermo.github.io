@@ -1,0 +1,78 @@
+body{
+
+    background-image: url(galaxia.jpg) 
+    
+}
+
+h1{
+   color: beige; 
+text-align: center;
+font-size: 36px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+table{
+border: #ccc;
+margin: auto;
+
+}
+
+.image{
+width: 300px;
+border-radius: 10px;
+border: 1px solid #ccc;
+ 
+
+}
+
+.image:hover{
+/*transform:rotate(30deg); */
+transform: scale(1.2);
+
+}
+
+p{
+
+    color: aliceblue; 
+    text-align: justify;
+    font-size: 23px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+
+
+}
+
+h2{
+color: aliceblue;
+font-size: 23px;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+h3{
+    color: aliceblue;
+    font-size: 28px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+ol{
+
+    color: aliceblue;
+    font-size: 16px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
